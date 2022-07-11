@@ -12,3 +12,10 @@ This is a command-line application that accepts user input. When the application
 
 Can be used to organize and plan business
 
+## Screenshot
+![screenshot](/images/employee-tracker-app.png)
+
+## Link to Walkthrough Video 
+
+[walkthrough](https://drive.google.com/file/d/1uwLqYpv9XPRoQQi3N449cgui3wccwxL4/view)
+
